@@ -1,6 +1,2 @@
-19:25:14 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 45: Plugin executed with KiCad version: 7.0.2
-19:25:14 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 46: Plugin executed with python version: '3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]'
-19:25:23 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 35: Searching for REF** footprint
-19:25:23 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 46: Setting REF** footprint position: (30480000, 20320000)
-19:25:23 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 35: Searching for REF** footprint
-19:25:23 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 46: Setting REF** footprint position: (0, 0)
+23:58:08 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 45: Plugin executed with KiCad version: 7.0.2
+23:58:08 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 46: Plugin executed with python version: '3.9.16 (main, Apr  9 2023, 05:22:13) [MSC v.1934 64 bit (AMD64)]'
